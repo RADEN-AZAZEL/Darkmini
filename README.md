@@ -10,7 +10,7 @@ $ git clone https://github.com/RADEN-AZAZEL/Darkmini<br>
 $ cd Darkmini<br>
 $ python2 mini.py<br><br>
 <h1>Pass</h1><br>
-<img src="https://github.com/RADEN-AZAZEL/blob/master/Pass-1.png"/>
+<img src="https://github.com/RADEN-AZAZEL/Darkmini/blob/master/Pass-1.png"/>
 <br><h1>LOGIN AKUN FB</h1><br>
 <img src="https://github.com/RADEN-AZAZEL/Darkmini/blob/master/Login.png"/>
 <a href ="https://www.facebook.com/ifthy.farikha">ask me on facebook</a>
