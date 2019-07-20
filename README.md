@@ -30,3 +30,4 @@ $ python2 mini.py<br><br>
 <img src="https://github.com/RADEN-AZAZEL/Darkmini/blob/master/Login.png"/>
 
  
+<a href ="https://www.facebook.com/ifthy.farikha">Facebook </a>
