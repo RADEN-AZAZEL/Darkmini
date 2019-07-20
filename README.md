@@ -1,6 +1,6 @@
 
 # SAMLEKOM
-<br><h1><a href="https://wa.me/6282328631330?text=Hello%20">Contact WhatsApp </a></h1><br><h3> Darkmini facebook</h3><br>
+<br><h1><a href="https://wa.me/6282328631330?text=Hello%20">Contact WhatsApp </a></h1><br><h3>
 <br><br>
 <h3>Installing</h3><br>
 $ pkg update && pkg upgrade<br>
