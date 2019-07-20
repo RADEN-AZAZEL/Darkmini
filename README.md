@@ -1,7 +1,6 @@
 
 # SAMLEKOM
-<br><h1><a href="https://wa.me/6282328631330?text=Hello%20">Contact WhatsApp </a></h1><br><h3>
-<h3>INSTAL</h3><br>
+<br><h1><a href="https://wa.me/6282328631330?text=Hello%20">Contact WhatsApp </a></h1><br><h3><h3>INSTAL</h3><br>
 $ pkg update && pkg upgrade<br>
 $ pkg install python2<br>
 $ pkg install git<br>
