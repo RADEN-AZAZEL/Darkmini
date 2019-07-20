@@ -13,7 +13,5 @@ $ python2 mini.py<br><br>
 <img src="https://github.com/RADEN-AZAZEL/Darkmini/blob/master/Pass-1.png"/>
 <br><h1>LOGIN AKUN FB</h1><br>
 <img src="https://github.com/RADEN-AZAZEL/Darkmini/blob/master/Login.png"/>
-<a href ="https://www.facebook.com/ifthy.farikha">ask me on facebook</a>
- # SAMLEKOM
-<br><h1><a href="
-<a href ="https://www.facebook.com/ifthy.farikha">Contact FACEBOOK </a></h1><br><h3>
+<a href ="https://www.facebook.com/ifthy.farikha">FACEBOOK</a>
+
